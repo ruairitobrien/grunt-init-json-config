@@ -1,0 +1,12 @@
+{
+	"entities" : [
+		{
+			"name": "One",
+			"package": "la/de/da"
+		},
+		{
+			"name": "Two",
+			"package": "la/de/da"
+		}
+	]
+}
